@@ -6,3 +6,6 @@ Place your thoughts here
 
 ## Cordelia ideas
 - Provide a repository of zip codes/areas that are historically underrepresented/targeted, ask user to input their location and what service they are looking for, and warn about potential common targeted services and/or sources of information to ensure they are better informed
+
+## Nate ideas
+- Make a hiring application anonymization program. Prompt the user for hiring information, then reformat it into a form for a potential employer to review, omitting PII and other information that may be used in hiring discrimination.
