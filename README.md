@@ -13,3 +13,10 @@ Repository for Final Project, CS110, Winter 2026
 ## Xindo ideas
 - Enforce protections of the underrepresented groups. No company should discriminate anyone of these backgrounds. It's already a thing, but it could stand to improve.
 
+# Overview (Draft)
+
+## What this project does
+
+## Connections to DSJ
+
+## How to use it
