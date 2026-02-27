@@ -12,6 +12,8 @@ Repository for Final Project, CS110, Winter 2026
 
 ## Xindo ideas
 - Enforce protections of the underrepresented groups. No company should discriminate anyone of these backgrounds. It's already a thing, but it could stand to improve.
+- In a good job economy, no one's future is determined by race, ethnicity, gender, sexual orientation, age disability, conviction record, family or immigration status, because one will still have an opportunity for education, skills, relationships, and experience to achieve a lifetime of employment mobility, rewarding work, and economic securty. (nelp.org antidiscrimination article) Groups of the following have been reported discriminated against because of those differences and that reflects deep-rooted prejudices and structural inequalities in society. So it's critical to be inclusive to these groups despite these differences and that will make society a better place.
+- Give others of diverse groups a choice.
 
 # Overview (Draft)
 
