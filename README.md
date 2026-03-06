@@ -27,3 +27,17 @@ Repository for Final Project, CS110, Winter 2026
 
 # Progress/Updates
 - (Cordelia 3/4/26) Program will specifically take user text input and provide a file output of the compiled/formatted information. May also include a display/tab that shows what the output will be before submission (transparency)
+
+# Program Outline
+- Program will ask for various fields of input
+-   Name
+-   Address
+-   Contact
+-   Work Experience
+-   Education
+-   Skills
+-   Additional Info(?)
+- User will input any relevant text
+- User can press a "preview" button to see what the program will produce
+- User will "submit" information
+- Program will process submission and produce a file for "employer" review.
